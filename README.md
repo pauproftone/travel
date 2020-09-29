@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Dubai's best beaches
 
-You can use the [editor on GitHub](https://github.com/pauproftone/travel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Unknown aspects of Dubai beach life
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Branching](Beach1.jpg)
 
-### Markdown
+Nature has endowed the coastal zone of the Arab Emirates with fabulous beaches. Sparkling white sand, clear sea water and a smooth decline in depth make hot Dubai a great place for a beach holiday. Everything that nature failed to do is carefully replenished by human creations: comfortable sun loungers, umbrellas freely scattered on the sandy expanses and strict systems of water purification from accidental litter and the tiniest algae.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Many beaches are famous for their entertainment and lively atmosphere, and therefore are popular among tourists and residents of the metropolis. However, there are many secluded places left in Dubai, where you managed to preserve the pristine elegance, which permeates the combination of snow-white sand and translucent aquamarine of the Persian Gulf. What to choose is up to you.
 
-```markdown
-Syntax highlighted code block
+![Branching](Beach2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+The number one beach in Dubai is Jumeirah Beach Residence (JBR). The sea here is always calm - just what fans are looking for a swim in the heat. Hotels near the Jumeirah Beach Residence offer water activities for all tastes, so visitors to the beach always have the opportunity to fly a boat on a paraglider, sign up for a wakeboarding lesson or ride on an inflatable banana. Marine entertainment combined with a wide selection of cafes and restaurants make this beach a favorite place for families. A ride along the beach is a welcome addition, as you always have the chance to meet one of the camels that live in the Jumeirah Beach Residence.
 
-- Bulleted
-- List
+The beach is located in the Dubai Marina area.
 
-1. Numbered
-2. List
+## Kite Beach
 
-**Bold** and _Italic_ and `Code` text
+![Branching](Beach3.jpg)
 
-[Link](url) and ![Image](src)
-```
+From the name of this beach it is easy to guess that it is the place for fans of kitesurfing. Professional athletes, beginners surfers and enthusiastic spectators come to Dubai especially on Kite Beach for their favorite sport. There are a lot of schools and companies renting necessary equipment so that anyone can challenge the azure waters and hot winds of the Arabian Gulf. The best time for classes is in the afternoon, when the wind is getting stronger and the sea is excited just in time for kitesurfing. Those who like to watch spectacular tricks from the side will pay attention to the colorful scenery: against the background of the Burj Al Arab skyscraper the colorful wings of paragliders look especially spectacular.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The beach is located across the street from the road junction Al Manara.
 
-### Jekyll Themes
+## Umm Suqeim Park Beach
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pauproftone/travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Branching](Beach4.jpg)
 
-### Support or Contact
+Picturesque beach Umm Suqeim Beach sheltered in the shadow of the famous tower Burj Al Arab. This is one of the most successful places for photo shoot on vacation. In addition to the picturesque landscape, this place is famous for its winds, which attract surfers and windsurfers, and beginners conquerors of the waves here learn their boards in the morning in the cooler seasons. Near Umm Suqeim Park Beach there is a cozy park, which on hot days gives the long-awaited coolness and contrasts with its greenery and white soft beach sand.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The beach is located on Al Thanya Street, next to Jumeirah Beach Hotel, opposite the Umm Suqeim Park.
